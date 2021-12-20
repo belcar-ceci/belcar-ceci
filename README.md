@@ -55,10 +55,12 @@
 
 ### 🌱 I'm currently learning... / Last Projects
 
-- GraphQL / Heroku / Docker 
+- PHP / Laravel / MySQL
+- node / MongoDB / Mongoose
+- Vue js
 - Advance React JS
-- FullStack Bootcamp with <a href="https://factoriaf5.org/" target="_blank">Factoria F5</a> in <a href="https://codesandbox.io/u/veroMoreno" target="_blank">Codesandbox</a>
-- FullStack Bootcamp with <a href="https://www.twitch.tv/midudev" target="_blank">Midudev</a> in <a href="https://github.com/belcar-ceci/belcar-ceci" target="_blank">GitHub</a>
+- FullStack Bootcamp with <a href="https://factoriaf5.org/" target="_blank">Factoria F5</a> in <a href="https://github.com/belcar-ceci" target="_blank">Codesandbox</a>
+
 
 
 
@@ -70,7 +72,7 @@
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belcar-ceci&theme=radical&card_width=450em)](https://github.com/belcar-ceci/belcar-ceci/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=belcar-cecio&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=belcar-ceci&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
 
