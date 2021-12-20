@@ -2,7 +2,7 @@
 
 ```shell
  { “name” : “Cecilia Carbajal Belmont”,
-   “role” : “Fronten Dev”,
+   “role” : “Frontend Dev”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/cecicarbel/", 
