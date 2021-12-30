@@ -58,8 +58,8 @@
 - PHP / Laravel / MySQL
 - node / MongoDB / Mongoose
 - Vue js
-- Advance React JS
-- FullStack Bootcamp with <a href="https://factoriaf5.org/" target="_blank">Factoria F5</a> in <a href="https://github.com/belcar-ceci" target="_blank">Codesandbox</a>
+- Advance React JS <a href="https://factoriaf5.org/" target="_blank">Factoria F5</a> in <a href="https://codesandbox.io/u/carbel.cecilia" target="_blank">Codesandbox</a>
+- FullStack Bootcamp with <a href="https://factoriaf5.org/" target="_blank">Factoria F5</a> in <a href="https://github.com/belcar-ceci" target="_blank">GitHub</a>
 
 
 
