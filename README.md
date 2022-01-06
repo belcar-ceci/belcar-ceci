@@ -81,8 +81,8 @@
 [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
 
 <p align="center"> 
-  Visitors count<br>
+  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />Visitors count<br>
   <img src="https://profile-counter.glitch.me/belcar-ceci/count.svg" />
 </p>
 
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
+
