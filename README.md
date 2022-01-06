@@ -85,4 +85,4 @@
   <img src="https://profile-counter.glitch.me/belcar-ceci/count.svg" />
 </p>
 
-<img src="stats.gif" width="90%"><br/><br/>
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
