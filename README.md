@@ -79,3 +79,10 @@
 
 #### 🎧 I love music! | Spotify Playing
 [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/belcar-ceci/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
