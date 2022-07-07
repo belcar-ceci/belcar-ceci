@@ -26,7 +26,7 @@ const aboutMe = {
 
 - TDD / SpringBoot / PostgreSQL
 - MongoDB / Mongoose
-- PostgreSQL / Kubernetes
+- Node
 - Advance React JS  projects in <a href="https://codesandbox.io/u/carbel.cecilia" target="_blank">Codesandbox</a> and <a href="https://codepen.io/belcar-ceci" target="_blank">Codepen</a>
 - FullStack Bootcamp with <a href="https://factoriaf5.org/" target="_blank">Factoria F5</a> in <a href="https://github.com/belcar-ceci" target="_blank">GitHub</a>
 
