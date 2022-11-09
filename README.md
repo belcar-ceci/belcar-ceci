@@ -8,7 +8,7 @@
 ```javascript
 const aboutMe = {
   name: “Cecilia Carbajal Belmont”,
-  role: "Frontend Developer",
+  role: "Junior Frontend Developer",
   data: { 
       Linkedin: "https://www.linkedin.com/in/cecicarbel/", 
       Resume: "https://github.com/belcar-ceci",
