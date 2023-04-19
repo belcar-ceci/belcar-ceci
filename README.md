@@ -8,7 +8,7 @@
 ```javascript
 const aboutMe = {
   name: “Cecilia Carbajal Belmont”,
-  role: "Junior Frontend Developer",
+  role: "Quality Assurance | Full Stack Developer",
   data: { 
       Linkedin: "https://www.linkedin.com/in/cecicarbel/", 
       Resume: "https://github.com/belcar-ceci",
@@ -24,7 +24,8 @@ const aboutMe = {
 
 ### 🌱 I'm currently learning... / Last Projects
 
-- TDD / SpringBoot / PostgreSQL
+- Selenium
+- Cucumber
 - MongoDB / Mongoose
 - Node
 - Advance React JS  projects in <a href="https://codesandbox.io/u/carbel.cecilia" target="_blank">Codesandbox</a> and <a href="https://codepen.io/belcar-ceci" target="_blank">Codepen</a>
